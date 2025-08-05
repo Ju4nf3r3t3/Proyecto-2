@@ -30,7 +30,7 @@ Todo el proceso estará integrado en la web y permitirá a Global MVM automatiza
 |---------------------|------------------------------|--------------------------|
 | Nombre              | nombre1@eafit.edu.co         | Sin asignar              |
 | Nombre              | nombre2@eafit.edu.co         | Sin asignar              |
-| Nombre              | nombre3@eafit.edu.co         | Sin asignar              |
+| **Luis Moreno**     | lemorenog@eafit.edu.co       | **Programador**          |
 | **Juan Romero**     | jfromrr@eafit.edu.co         | **Scrum master**         |
 | **Vladlen Shatunov**| vshatunov@eafit.edu.co       | **Tester**               |
 
