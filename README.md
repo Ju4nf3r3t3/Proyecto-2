@@ -28,10 +28,10 @@ Todo el proceso estará integrado en la web y permitirá a Global MVM automatiza
 
 | Nombre              | Correo institucional         | Rol dentro del proyecto |
 |---------------------|------------------------------|--------------------------|
-| **Carlos Arturo Diaz**| cadiazh@eafit.edu.co         | **diseñador de producto**|
+| **Carlos Arturo Diaz**| cadiazh@eafit.edu.co         | **Diseñador de Producto**|
 | **Juan Castellanos**| jmcastell1@eafit.edu.co      | **Arquitecto**           |
 | **Luis Moreno**     | lemorenog@eafit.edu.co       | **Programador**          |
-| **Juan Romero**     | jfromrr@eafit.edu.co         | **Scrum master**         |
+| **Juan Romero**     | jfromrr@eafit.edu.co         | **Scrum Master**         |
 | **Vladlen Shatunov**| vshatunov@eafit.edu.co       | **Tester**               |
 
 ---
